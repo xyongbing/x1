@@ -1,0 +1,5 @@
+1.win+r，regedit.exe，打开注册表 按照文件的层次关系依次找到
+HKEY_LOCAL_MACHINE\Softwarej\Microsoft\windows\CurrentVersion\Explorer；
+修改键名Max Cached Icons （最大缓存图标）的值为2000
+
+tortoiseGit ->图标覆盖->默认
