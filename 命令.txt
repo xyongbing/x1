@@ -11,3 +11,7 @@
 往远程仓库推送代码：
 	git remote add [别名] git@github.com:xyongbing/x2.git
 	git push -u [别名] master
+
+
+删除分支
+git branch -d [分支名]
